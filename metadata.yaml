@@ -1,5 +1,8 @@
 _repo: The-party-battles-of-the-Jackson-period_72299
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72299-h/images/cover.jpg
 creator:
   author:
     agent_name: Bowers, Claude G. (Claude Gernade)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56598
     wikipedia: https://en.wikipedia.org/wiki/Claude_G._Bowers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72299#The-party-battles-of-the-Jackson-period
 gutenberg_issued: '2023-12-03'
 identifiers:
   gutenberg: '72299'
